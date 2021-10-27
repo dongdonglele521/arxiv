@@ -9,8 +9,8 @@ on:
     - cron:  "* 12 * * *"  # Runs every minute of 12th hour
 env:
 
-  GITHUB_USER_NAME: your_github_id # your github id
-  GITHUB_USER_EMAIL: your_email_addr # your email address
+  GITHUB_USER_NAME: dongdonglele521  # your github id
+  GITHUB_USER_EMAIL: 2356740253@qq.com # your email address
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel

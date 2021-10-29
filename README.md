@@ -1,9 +1,11 @@
-## Updated on 2021.10.28
+## Updated on 2021.10.29
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-27**|**Millimeter Wave Wireless-Assisted Robotic Navigation with Link State Classification**|Mingsheng Yin et.al.|[2110.14789v1](http://arxiv.org/abs/2110.14789v1)|null|
+|**2021-10-27**|**Efficient Placard Discovery for Semantic Mapping During Frontier Exploration**|David Balaban et.al.|[2110.14742v1](http://arxiv.org/abs/2110.14742v1)|null|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang et.al.|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-25**|**WOLF: A modular estimation framework for robotics based on factor graphs**|Joan Sola et.al.|[2110.12919v1](http://arxiv.org/abs/2110.12919v1)|null|
 |**2021-10-21**|**Real-Time Ground-Plane Refined LiDAR SLAM**|Fan Yang et.al.|[2110.11517v1](http://arxiv.org/abs/2110.11517v1)|null|
@@ -58,7 +60,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu et.al.|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|null|
+|**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu et.al.|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|
 |**2021-10-23**|**HWTool: Fully Automatic Mapping of an Extensible C++ Image Processing Language to Hardware**|James Hegarty et.al.|[2110.12106v1](http://arxiv.org/abs/2110.12106v1)|null|
 |**2021-10-18**|**Keypoint-Based Bimanual Shaping of Deformable Linear Objects under Environmental Constraints using Hierarchical Action Planning**|Shengzeng Huo et.al.|[2110.08962v1](http://arxiv.org/abs/2110.08962v1)|null|
 |**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216v1](http://arxiv.org/abs/2110.05216v1)|null|

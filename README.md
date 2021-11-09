@@ -1,11 +1,14 @@
-## Updated on 2021.11.07
+## Updated on 2021.11.09
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian et.al.|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
+|**2021-11-07**|**Online Adaptation of Monocular Depth Prediction with Visual SLAM**|Shing Yan Loo et.al.|[2111.04096v1](http://arxiv.org/abs/2111.04096v1)|null|
+|**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
 |**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
-|**2021-10-27**|**Millimeter Wave Wireless-Assisted Robotic Navigation with Link State Classification**|Mingsheng Yin et.al.|[2110.14789v1](http://arxiv.org/abs/2110.14789v1)|null|
+|**2021-10-27**|**Millimeter Wave Wireless Assisted Robot Navigation with Link State Classification**|Mingsheng Yin et.al.|[2110.14789v2](http://arxiv.org/abs/2110.14789v2)|**[link](https://github.com/nyu-wireless/mmwRobotNav)**|
 |**2021-10-27**|**Efficient Placard Discovery for Semantic Mapping During Frontier Exploration**|David Balaban et.al.|[2110.14742v1](http://arxiv.org/abs/2110.14742v1)|null|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang et.al.|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-25**|**WOLF: A modular estimation framework for robotics based on factor graphs**|Joan Sola et.al.|[2110.12919v1](http://arxiv.org/abs/2110.12919v1)|null|
@@ -31,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v1](http://arxiv.org/abs/2111.03708v1)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik et.al.|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 |**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera et.al.|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
@@ -62,6 +66,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-08**|**Template NeRF: Towards Modeling Dense Shape Correspondences from Category-Specific Object Images**|Jianfei Guo et.al.|[2111.04237v1](http://arxiv.org/abs/2111.04237v1)|null|
+|**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu et.al.|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
 |**2021-11-01**|**Learning Event-based Spatio-Temporal Feature Descriptors via Local Synaptic Plasticity: A Biologically-realistic Perspective of Computer Vision**|Ali Safa et.al.|[2111.00791v2](http://arxiv.org/abs/2111.00791v2)|null|
 |**2021-10-30**|**Geometry-Aware Hierarchical Bayesian Learning on Manifolds**|Yonghui Fan et.al.|[2111.00184v1](http://arxiv.org/abs/2111.00184v1)|null|
 |**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu et.al.|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|

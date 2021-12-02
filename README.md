@@ -100,7 +100,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-12-01**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon et.al.|[2112.00374v1](http://arxiv.org/abs/2112.00374v1)|null|
+|**2021-12-01**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon et.al.|[2112.00374v1](http://arxiv.org/abs/2112.00374v1)|**[link](https://github.com/paper11667/clipstyler)**|
 |**2021-11-29**|**Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**|Xiaoteng Zhou et.al.|[2111.15514v1](http://arxiv.org/abs/2111.15514v1)|null|
 |**2021-11-29**|**Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**|Yoad Tewel et.al.|[2111.14447v1](http://arxiv.org/abs/2111.14447v1)|**[link](https://github.com/yoadtew/zero-shot-image-to-text)**|
 |**2021-11-29**|**Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**|Usman Cheema et.al.|[2111.14339v1](http://arxiv.org/abs/2111.14339v1)|null|

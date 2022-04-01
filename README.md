@@ -1,9 +1,10 @@
-## Updated on 2022.03.31
+## Updated on 2022.04.01
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-30**|**GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios**|Chih-Yuan Chiu et.al.|[2203.16690v1](http://arxiv.org/abs/2203.16690v1)|null|
 |**2022-03-29**|**Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**|Mostafa Osman et.al.|[2203.15866v1](http://arxiv.org/abs/2203.15866v1)|null|
 |**2022-03-29**|**Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**|Mingjun Li et.al.|[2203.15439v1](http://arxiv.org/abs/2203.15439v1)|null|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
@@ -122,7 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-30**|**Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**|Shaohan Li et.al.|[2203.16505v1](http://arxiv.org/abs/2203.16505v1)|null|
+|**2022-03-30**|**Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**|Shaohan Li et.al.|[2203.16505v2](http://arxiv.org/abs/2203.16505v2)|null|
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 |**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
 |**2022-03-23**|**Event-Based Dense Reconstruction Pipeline**|Kun Xiao et.al.|[2203.12270v1](http://arxiv.org/abs/2203.12270v1)|null|
@@ -158,6 +159,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-31**|**Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**|Semih Orhan et.al.|[2203.16945v1](http://arxiv.org/abs/2203.16945v1)|null|
 |**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
 |**2022-03-24**|**A Simulation Benchmark for Vision-based Autonomous Navigation**|Lauri Suomela et.al.|[2203.13048v1](http://arxiv.org/abs/2203.13048v1)|null|
 |**2022-03-24**|**Is Geometry Enough for Matching in Visual Localization?**|Qunjie Zhou et.al.|[2203.12979v1](http://arxiv.org/abs/2203.12979v1)|null|
